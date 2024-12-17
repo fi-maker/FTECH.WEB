@@ -1,0 +1,78 @@
+.image
+{
+    width: 80px;
+}
+
+.text
+{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.class1
+{
+    background-color: lightblue;
+    height: 90px;
+}
+
+.class2
+{
+    margin-top: 10px;
+}
+
+.class3
+{
+    background-color: lightblue;
+}
+
+.class4
+{
+    margin-left: 500px;
+    font-size: 40px;
+}
+
+.class7
+{
+    height: 300px;
+}
+
+.class8
+{
+    color: black;
+}
+
+.class6a
+{
+ font-size: 20px;
+ margin-left: 20px;
+ color: whitesmoke;
+}
+.class7a
+{
+ margin-left: 20px;
+ color: whitesmoke;
+}
+.class8a
+{
+ margin-left: 450px;
+ color: whitesmoke;
+}
+
+.class4a
+{
+ background-color: rgb(35, 36, 36);
+}
+
+
+
+    @media screen and (max-width: 600px ) {
+        .class8a{
+          margin-left: 50px;
+        }
+
+        .class4{
+         margin-left: 10px;
+        }
+       
+  
+   }
